@@ -1,0 +1,192 @@
+.main1{
+        height: 25px;
+        text-align: center;
+        background-image: linear-gradient(to right, red, green 30%, yellow);
+        font-size: 20px;
+        color: black;
+        text-decoration: underline;
+    }
+
+.list{
+    border: 2px solid red;
+    text-align: center;
+    background-color: rgb(105, 217, 208);
+    border-radius: 10px;
+    width: 800px;
+    margin-top: 15px;
+    margin-left: 200px;
+}    
+ul{
+    margin-left: 320px;
+    margin-right: 260px;
+}
+.main2{
+    width: 100%;
+    height: 170px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: aquamarine;
+    margin-top: 30px;
+}
+.para{
+    width: 420px;
+    height: 70px;
+    background-color: aqua;
+    border-radius: 10px;
+    border: 2px solid green;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 20px;
+    padding: 2px;
+}
+
+.para2{
+    width: 420px;
+    height: 70px;
+    background-color: aqua;
+    border-radius: 10px;
+    border: 2px solid green;
+    font-weight: bold;
+    text-align: center;
+    margin-top: -78px;
+    margin-left: 470px;
+    padding: 2px;
+}
+.para3{
+    width: 420px;
+    height: 70px;
+    background-color: aqua;
+    border-radius: 10px;
+    border: 2px solid green;
+    font-weight: bold;
+    text-align: center;
+    margin-top: -78px;
+    margin-left: 920px;
+    padding: 2px;
+}
+.para4{
+    width: 420px;
+    height: 70px;
+    background-color: aqua;
+    border-radius: 10px;
+    border: 2px solid green;
+    font-weight: bold;
+    text-align: center;
+    padding: 2px;
+    margin-left: 470px;
+    margin-top: 10px;
+}
+.main3{
+    height: 25px;
+    text-align: center;
+    background-image: linear-gradient(to right, red, yellow 50%, red);
+    font-size: 15px;
+    color: black;
+    text-decoration: underline;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.main4{
+    display: flex;
+    height: 220px;
+    width: 100%;
+    background: radial-gradient(blue , aqua, green);
+    margin-top: 20px;
+}
+.details2{
+    border: 1px solid red;
+    border-radius: 10px;
+    background-color: yellow;
+    font-weight: bold;
+    text-decoration: underline;
+    color: rgb(147, 49, 22);
+    height: 100px;
+    width: 180px;
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 40px;
+    padding: 10px;
+}
+.main5{
+    width: 87%;
+    height: 300px;
+    border: 1px solid blue;
+    margin-top: 5px;
+}
+.slogan{
+    height: 25px;
+    text-align: center;
+    background-color: red;
+    font-size: 20px;
+    color:aliceblue;
+    font-weight: bold;
+    margin-top: 2px;
+}
+.footer{
+    background-color: rgb(160, 229, 155);
+    width: 370px;
+    height: 60px;
+    font-weight: bold;
+    font-size: 27px;
+    text-align: center;
+    color: aliceblue;
+    padding: 10px;
+    margin-top: 25px;
+}
+.footer1{
+    background-color: rgb(175, 200, 221);
+    width: 370px;
+    height: 60px;
+    font-weight: bold;
+    font-size: 27px;
+    text-align: justify;
+    color: aliceblue;
+    padding: 10px;
+    margin-left: 395px;
+    margin-top: -80px;
+}
+.footer2{
+    background-color: rgb(55, 32, 235);
+    width: 370px;
+    height: 60px;
+    font-weight: bold;
+    font-size: 22px;
+    text-align:justify;
+    color: aliceblue;
+    padding: 10px;
+    margin-left: 790px;
+    margin-top: -80px;
+}
+.material{
+    background-color: black;
+    color: aliceblue;
+    width: 120px;
+    margin-left: 1182px;
+    margin-top: -80px;
+    padding: 2px;
+    text-align:left;
+    text-decoration: underline;
+}
+.lorem{
+    width: 89.4%;
+    background-color: orange;
+    color: aliceblue;
+    height: 105px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: -115px;
+    text-align:justify;
+    padding-left: 10px;
+    padding: 5px;
+}
+.bottom{
+    background-color: aqua;
+    width: 100%;
+    height: 25px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 21px;
+}
+
